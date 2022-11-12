@@ -4,7 +4,7 @@ word2vecと呼ばれるモデルの中でも複数の単語から一つの単語
 また、共起行列も作成可能である
 
 （https://raw.githubusercontent.com/tomsercu/lstm/master/data/）　
-このURLから学習をさせている
+このURL内の各データから学習をさせている(13~23行を参照)
 
 
 hidden_size = 隠れ層の数
